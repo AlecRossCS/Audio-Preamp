@@ -16,11 +16,9 @@ The rest of the design is fairly lengthy, and involves several larger elements t
 ## Hardware layout
 
 This board needed to be relatively space efficient, and total space is one factor which influences cost of production. so this is designed as a 50x80 mm  4 layer board, which should make a favorable production cost. as this is fiarly small and lower power another cost saver is it only needs 1 oz copper, not 2 oz copper. Another point for production is that almost all components are SMD, thus decreases cost of assembly. 
-![front copper](Audio_Preamp-F_Cu.svg)
-![back copper](Audio_Preamp-B_Cu.svg)
 
 overall mockup:
-![model](mockup.png)
+![model](mockup.PNG)
 
 ## version 2
 This version has RCA out, but V2 may have balanced output as well as active crossovers. 
